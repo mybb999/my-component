@@ -14,7 +14,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-        cityArr:['北京','上海','广州','深圳','茂名','张家界','清远','汕头','佛山']
+        cityArr:['熊仔','胡仔','游总','工头','妹纸','糖仔','黄总','猛仔','智总']
     }
   },
   methods:{

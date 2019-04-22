@@ -2,7 +2,7 @@
     <div class="home">
         <h1>{{city}}</h1>
         <!-- 按钮导航 -->
-        <router-link tag='button' to="/Citylist">获取城市列表</router-link>
+        <router-link tag='button' to="/Citylist">获取列表</router-link>
     </div>
 </template>
 
